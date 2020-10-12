@@ -1,8 +1,9 @@
 # Welcome to My GitHub Pages
 
-
-# Java Basic
-* [learn-java](https://du-feng.github.io/learn-java)
-* [learn-java-library](https://du-feng.github.io/learn-java-library)
-
+# [Home](https://du-feng.github.io/)
+# [Java Foundation](https://du-feng.github.io/LearnJava)
 # [Spring Family](https://du-feng.github.io/SpringFamily)
+
+> [Home](https://du-feng.github.io/)
+> [Java Foundation](https://du-feng.github.io/LearnJava)
+> [Spring Family](https://du-feng.github.io/SpringFamily)
